@@ -55,4 +55,5 @@ Math in python uses real world operators. Here is the list of operators
 - ** Exponent
 
 Since I created the first function to add, try creating the rest of the functions that utilizes the other operators in a similar fashion to how the addition function was made. 
-If you check the `run_me.py` file you can see what the name of the methods are supposed to be. To test if your function is correct simply run the `run_me.py` file.
+If you check the `run_me.py` file you can see what the name of the methods are supposed to be. To test if your function is correct simply run the `run_me.py` file. Functions that aren't made or don't have the name that they're supposed to will error out. You can comment them out by placing a `#` before them to not have any errors. If you are using PyCharm the missing functions calls will have a yellow highlight like this.
+![missing function example](photos/missingFunctionExample.png "Missing Function Example")

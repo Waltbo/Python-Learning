@@ -1,6 +1,6 @@
 import module_one as math
 if __name__ == "__main__":
-    print("Addition: " + math.add_numbers(5,10))
+    print("Addition: " + math.add_numbers(5, 10))
     print("Subtraction: " + math.subtract_numbers(5,10))
     print("Multiply: " + math.multiply_numbers(5,10))
     print("Divide: " + math.divide_numbers(5,10))
