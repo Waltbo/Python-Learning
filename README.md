@@ -16,6 +16,10 @@ There are numbers you can store like integers, longs, floats, and complex number
 - long _e.g.(0122L, 1234817241132L)_
 - float _e.g.(1.5, 10.0, 25.12)_
 - complex _e.g.(15j, 15e-10j)_
+```
+    sampleInt = 10
+    sampleFloat = 50.21
+```
 
 ### Strings
 Strings are essentially a list of characters. They can be assigned in double quotes `("Hello World")` or single quotes `('Hello World')`
