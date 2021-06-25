@@ -58,3 +58,6 @@ Since I created the first function to add, try creating the rest of the function
 If you check the `run_me.py` file you can see what the name of the methods are supposed to be. To test if your function is correct simply run the `run_me.py` file. Functions that aren't made or don't have the name that they're supposed to will error out. You can comment them out by placing a `#` before them to not have any errors. If you are using PyCharm the missing functions calls will have a yellow highlight like this.
 
 ![missing function example](photos/missingFunctionExample.png "Missing Function Example")
+
+A good thing to remember is that there is something called a scope in programming. This means that a variable is only available inside the region it's created. In certain programming languages the scope is defined by curly brackets, but in Python the scope is defined by indentations. For example the sum, num1, num2, and the return statement are only going to be seen by the `add_numbers` function:
+![scope](photos/scope.png "Scope")
